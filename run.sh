@@ -1,2 +1,2 @@
 #! /bin/sh
-bundle exec python start.py
+bundle exec python app.py
